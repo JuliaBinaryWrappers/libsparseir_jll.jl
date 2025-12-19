@@ -1,316 +1,51 @@
 [[libsparseir]]
 arch = "aarch64"
-git-tree-sha1 = "e64304ed52685b872d7d21fde9bab2b73668683c"
+git-tree-sha1 = "71deb2ba5b548f781cf990c9edb2bbc4e3633f30"
 os = "macos"
 
     [[libsparseir.download]]
-    sha256 = "eeea5dc4139ffda597cde156b503d43d88961932a34fd4a7dbd885097e408334"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "bc2fa2ad09cf041811a5d16bd0de75adce2060dffb6e5651ef105e2d9ae86ab6"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.7.3+0/libsparseir.v0.7.3.aarch64-apple-darwin.tar.gz"
 [[libsparseir]]
 arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "3d2e8d9dcea4d1465caa99caf2a7c871dbf9debf"
+git-tree-sha1 = "6c94c324972558791596720cdd764df51d6d4783"
 libc = "glibc"
 os = "linux"
 
     [[libsparseir.download]]
-    sha256 = "e960fe6b9d8540e451bf9c2649fdd5155ae70398fe85e925b747ed0ff4176afb"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "0339375d15a5421933c59293067b89f6260942e5e6fd22b99ace4b5861989007"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.7.3+0/libsparseir.v0.7.3.aarch64-linux-gnu.tar.gz"
 [[libsparseir]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "7ed077e12e72bc357f336d126647b4f86190072a"
+arch = "powerpc64le"
+git-tree-sha1 = "15e6b588f03f7f40624dcbf3b50d7e521d957634"
 libc = "glibc"
 os = "linux"
 
     [[libsparseir.download]]
-    sha256 = "32c81d13b1e9a40308c97d7a861fadaea98ca053d4d778b3e9f049d5e9d334e5"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "bc45ca19a870ff1b201deb9e0f8d9ff6c7189f85f359b6940a90ba2ce4efa68a"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.7.3+0/libsparseir.v0.7.3.powerpc64le-linux-gnu.tar.gz"
 [[libsparseir]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "2a1ac31695483f70bd224ede220f11bbed4c2d18"
-libc = "musl"
+arch = "x86_64"
+git-tree-sha1 = "decc639c789f08996689fa97909dace2c084a8ff"
+libc = "glibc"
 os = "linux"
 
     [[libsparseir.download]]
-    sha256 = "fbd025bbd6001e723a9a6b760cb7351663dcee1d9c8558d6cd83798946c02317"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "a5bbae9cb698f7fab60851d78ce048d14de69ae1d2324d953acdb82a961b60e3"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.7.3+0/libsparseir.v0.7.3.x86_64-linux-gnu.tar.gz"
 [[libsparseir]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "5071cb86077cac3e92bd915ff8391a55c32ad186"
-libc = "musl"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "bc26a8770962139557327c0ce9c12f8c17ea5597feffb11145aa210154906ad6"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.aarch64-linux-musl-cxx11.tar.gz"
-[[libsparseir]]
-arch = "aarch64"
-git-tree-sha1 = "033dd0d5cb91424dde187f8dd8022a43e4447540"
+arch = "x86_64"
+git-tree-sha1 = "38a68554ba666807404e734e54558a91c672e07f"
 os = "freebsd"
 
     [[libsparseir.download]]
-    sha256 = "3b1e1a98aeb21f8cf88f9fd897362f8dd0e248c9a9b25b21d9740082a61da0a0"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "99db19b26ae675af91d86d1872e396016141d1cf8a30bcffea9d9452750b1a25"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.7.3+0/libsparseir.v0.7.3.x86_64-unknown-freebsd.tar.gz"
 [[libsparseir]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "55199ea91019fbeca3120dc071701fdb3922801b"
-libc = "glibc"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "ea3ced7d3eb7c435d16c0051d0b05c3789bbda479824d4bd8892515883e539c8"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
-[[libsparseir]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6f383822a79be53cee9448285672bc9d23809427"
-libc = "glibc"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "88fbf9d848705d6755015741591bc5ada6629a5d1a2a88483a46f5c7627acffb"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
-[[libsparseir]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "46ef1549d1a1963cbc488df8b2e48cc0d1c57359"
-libc = "musl"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "c7523dbd503e261218dc504d37c34c1a3b8496acf755b56e7cf0128cbbdad704"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.armv6l-linux-musleabihf-cxx03.tar.gz"
-[[libsparseir]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "75b9b50cc1a7f807d0b186da6b52d2396ce60d85"
-libc = "musl"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "8d50a4d4b9e6ad3277a6d1282f56ee19d39466cbccd7bf55fcb2a3f59ce7be08"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.armv6l-linux-musleabihf-cxx11.tar.gz"
-[[libsparseir]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "9eee352afc860ffcfaf7df7877444f473b288dbf"
-libc = "glibc"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "0146ccbe653ea02c5ffa8d7596de7e5591eb09f389ffb08f103e638d1a1f2761"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[libsparseir]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8daf02602abe29bc4382bbfa09bf4d59c5d1aade"
-libc = "glibc"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "2ad06d090f9faa69a47c72aeb943cfa57167fea18ce1343b5b63d2dfd599aaf9"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[libsparseir]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "20aa965161909a075f480186f45c3b50155fcbeb"
-libc = "musl"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "12afcaeff5dc971874456ada00c0ffb99a81f0e6874368f7ea2c8992094642b3"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[libsparseir]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d185c800c626c3503c443b5d52837c4c4a550a02"
-libc = "musl"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "0ce8c7181d6cb56e4c00eb4be7b0e543106d03b7e9786fdabfdb757f5720375e"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[libsparseir]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "384efc1366e25d5209811dc2b4111a5e174c2ab5"
-libc = "glibc"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "77e10101f89b3d98c2b4a71a9e20d23a9cfe9af34590089acf4c35b534467cda"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.i686-linux-gnu-cxx03.tar.gz"
-[[libsparseir]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "09f50559a5fc04ffb2cad9a2566a61fc04392c31"
-libc = "glibc"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "c9884cb6cc74aece0ca03f6cb592d826ac2e38eba4343a4f2f05757e116e37e4"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.i686-linux-gnu-cxx11.tar.gz"
-[[libsparseir]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "bcb6e5050acb4f7508bc9b98ca6e0feb7b0ca226"
-libc = "musl"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "5aba75d21473d3156f600d48ffd57fc475683459aa7375dbc8f0ef69648015fc"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.i686-linux-musl-cxx03.tar.gz"
-[[libsparseir]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "969c81138ee6841cd0d50451752c08f40f942d9b"
-libc = "musl"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "bee9ef2f1f1b16b0abcb6e59e2ae4fb8d3235c931fd68245283522c681bbd996"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.i686-linux-musl-cxx11.tar.gz"
-[[libsparseir]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "7e640b69425e15b8c24dcc938d47ece5570dab37"
+arch = "x86_64"
+git-tree-sha1 = "d88c28738904b9579853c764bf3c2d2aa26159f3"
 os = "windows"
 
     [[libsparseir.download]]
-    sha256 = "3f7b1f5258befdef225ee8a5dcf05855bf0e27d932a3c5aa3f6df242ac1af4f9"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.i686-w64-mingw32-cxx03.tar.gz"
-[[libsparseir]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c6e5ade4ae2973cb5c704650ac7c7e957d9d5eb1"
-os = "windows"
-
-    [[libsparseir.download]]
-    sha256 = "804b27fc3d54e84b7600875759101d3e6606624325fbb5d6089c97e1f91de4db"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.i686-w64-mingw32-cxx11.tar.gz"
-[[libsparseir]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "50dc43d9f33c214fa9db66ce8a2568766d1807b6"
-libc = "glibc"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "b5c12c4b61feb54337c6e5629294b1be7e91ce40309a664169c8e75cd1c30cab"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[libsparseir]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "169c61f8ba6254c40183ee26364a88d07ddec612"
-libc = "glibc"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "67947c2a4e9b6c3edf010c72facdbaf1972da1b2e10242d3780ba8b1fe5c5abb"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[libsparseir]]
-arch = "riscv64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "12361b23db5b13b557f91258707240ab8aa9abc5"
-libc = "glibc"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "275689cd06e37e49152c65492be13d00a02c03d76d6d0f1c765554bc47452f18"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.riscv64-linux-gnu-cxx03.tar.gz"
-[[libsparseir]]
-arch = "riscv64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "92405759a9862c817ef96a3ad3f7006623d0bc5b"
-libc = "glibc"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "9866dab51ccfdada7b7a499674a9d658e5b372fca3cb62d1c9f7252b70661f85"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.riscv64-linux-gnu-cxx11.tar.gz"
-[[libsparseir]]
-arch = "x86_64"
-git-tree-sha1 = "092ec7417e3cf8b6494a10a5087b59bf06d49e38"
-os = "macos"
-
-    [[libsparseir.download]]
-    sha256 = "4581813cdad9a18393ba46e06cdbc98d93b5b465e48e81b1487186b19f039488"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.x86_64-apple-darwin.tar.gz"
-[[libsparseir]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "0f0f2c2a0bcc9763149d46dc1a01b46cc76c0082"
-libc = "glibc"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "7caf86cc181ba8afa1f5320a8a1592113342dcc75eac8e9bf8ee9374528e21f3"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.x86_64-linux-gnu-cxx03.tar.gz"
-[[libsparseir]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "da582310b09997c17153fd7a489856621cf07f4d"
-libc = "glibc"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "feaf25e93efd78abc823f24bed86fbbd4df895b7f9a53e52fd9045d9898bbf4d"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.x86_64-linux-gnu-cxx11.tar.gz"
-[[libsparseir]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "01c8267359ceba29e61b3e428d850965e82e246a"
-libc = "musl"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "4d62fc006d2caa70707bbe104d3df6a4dd9315e1575831f99779dea4ff4ac441"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.x86_64-linux-musl-cxx03.tar.gz"
-[[libsparseir]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "96928d7e1c8f649156fcaf5109b0a1c0707d3601"
-libc = "musl"
-os = "linux"
-
-    [[libsparseir.download]]
-    sha256 = "5362eb3ffc323bcd88d1a5e9700093aca2e86505e6c10669dfe7a526962e430b"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.x86_64-linux-musl-cxx11.tar.gz"
-[[libsparseir]]
-arch = "x86_64"
-git-tree-sha1 = "88a88a7cb360f0eeccbb5347d3b33b5f9b6143e2"
-os = "freebsd"
-
-    [[libsparseir.download]]
-    sha256 = "ce74436341c52505aac6f5bb149f19a91d86734f62df3232ae982be93ad605b5"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.x86_64-unknown-freebsd.tar.gz"
-[[libsparseir]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "43c33ac112d07184040c8ade2a6d8207960651e3"
-os = "windows"
-
-    [[libsparseir.download]]
-    sha256 = "b180dc23cb2d55c583380088139e9b4086f7dd834a57368d0bf1cc09034d7342"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.x86_64-w64-mingw32-cxx03.tar.gz"
-[[libsparseir]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c9578b9c19e0ed14a53c39dbcf2d85eab77b5fa6"
-os = "windows"
-
-    [[libsparseir.download]]
-    sha256 = "654a1be34cb9069775f0ea4752c17b88e3281d5a63592fecb30bc6ca24fce73a"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.6.0+0/libsparseir.v0.6.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "92685e0b7ad2799958c0808da8cf1a8ceb965db651b36e630de706eb01c5c6f7"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.7.3+0/libsparseir.v0.7.3.x86_64-w64-mingw32.tar.gz"
