@@ -1,51 +1,51 @@
 [[libsparseir]]
 arch = "aarch64"
-git-tree-sha1 = "2dce1a44e81441f0af384fe9cebcffd2daf351f0"
+git-tree-sha1 = "6581ceb75a25801013bd5fd80fecea48286e28b0"
 os = "macos"
 
     [[libsparseir.download]]
-    sha256 = "3ab40ab7d8f5132fe8a9951a1433adb60e77c3632b64ce9ca1c22eb2638fb69d"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.0+0/libsparseir.v0.8.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "e602428624ef02646559f33f1b9c42b76c5dc068e2ba726959e72c24a52abe2f"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.4+0/libsparseir.v0.8.4.aarch64-apple-darwin.tar.gz"
 [[libsparseir]]
 arch = "aarch64"
-git-tree-sha1 = "cc903ca7a1dffc27a46600fc15f4c725ef4eb5d9"
+git-tree-sha1 = "538e98cc4f91a9a2ef62b0ff836a784e8776dd28"
 libc = "glibc"
 os = "linux"
 
     [[libsparseir.download]]
-    sha256 = "803d021fa1f97fdb98a5fa97b2b42f77c05f70c85426c06c67d2ae90a6ff27bd"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.0+0/libsparseir.v0.8.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "6d9520ad2162c6c43f5dc2e648d60fe1ff50357481b314a9ba063812b7bbcbcb"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.4+0/libsparseir.v0.8.4.aarch64-linux-gnu.tar.gz"
 [[libsparseir]]
 arch = "powerpc64le"
-git-tree-sha1 = "5b7aca4ef37907639ec3f770f29734a891887022"
+git-tree-sha1 = "90ee9deaa8da1ce01a54fbfa1292c13a19b7c6c8"
 libc = "glibc"
 os = "linux"
 
     [[libsparseir.download]]
-    sha256 = "d3e4a29b2991f042476ab467904b398a59244f6f44380e1ea62a44811fac03c5"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.0+0/libsparseir.v0.8.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "14b89d1a2f9a5c55dfb2ba615d9c2be326090329d0ddd22126539ff8465fb735"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.4+0/libsparseir.v0.8.4.powerpc64le-linux-gnu.tar.gz"
 [[libsparseir]]
 arch = "x86_64"
-git-tree-sha1 = "9e27bace26826b4be1c4dec0e4381505042b6293"
+git-tree-sha1 = "45ebfa1cd9495a0100ac5f2a077b0f704e7ac9cf"
 libc = "glibc"
 os = "linux"
 
     [[libsparseir.download]]
-    sha256 = "0a9dd76bfe006586802b1bc8c361f3073b997a795ad39b47794ea9b540fb9463"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.0+0/libsparseir.v0.8.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "3c178d53b9750c5d44ae4825add735c00da215f85e70e9ef8e7462af3d89ace9"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.4+0/libsparseir.v0.8.4.x86_64-linux-gnu.tar.gz"
 [[libsparseir]]
 arch = "x86_64"
-git-tree-sha1 = "774693e0d1f7bb8465699aba05f0a59235b7dee8"
+git-tree-sha1 = "f830f53ab52f32075fe598e9c582c64345e0d37a"
 os = "freebsd"
 
     [[libsparseir.download]]
-    sha256 = "d161da4699818e4e1b94873d374838cad26c760391535f7c2dfa0e8712a96604"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.0+0/libsparseir.v0.8.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "38bf39a3d1edae882eb98b8d81eef00b8f35302450746c809937b9ff57e7e13d"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.4+0/libsparseir.v0.8.4.x86_64-unknown-freebsd.tar.gz"
 [[libsparseir]]
 arch = "x86_64"
-git-tree-sha1 = "b11545228e779acc7dad0b093191b37504dfb433"
+git-tree-sha1 = "57a2603d5ab0489e395d68b1aa65992279db9612"
 os = "windows"
 
     [[libsparseir.download]]
-    sha256 = "d5e9147e8f41009c7c5dc12a7964b41b1bd03f111f1d368453324987b33b93d5"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.0+0/libsparseir.v0.8.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "0b5d10568eb6d24f2c53abcdcbd3c1be5b759d7aa2d8844067cfc29cdf8ea34c"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.4+0/libsparseir.v0.8.4.x86_64-w64-mingw32.tar.gz"
