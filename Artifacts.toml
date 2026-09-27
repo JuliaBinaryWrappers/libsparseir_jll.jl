@@ -1,59 +1,59 @@
 [[libsparseir]]
 arch = "aarch64"
-git-tree-sha1 = "7d7b92bfb71738656936075d4f3f29e94ffada8a"
+git-tree-sha1 = "789e1438f38d96c57d9180256033e8f2d9ec3b15"
 os = "macos"
 
     [[libsparseir.download]]
-    sha256 = "42ae3929ced200dad1c7f1346615c2e280c87ce70cb375c90a0895b46270787b"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.4+1/libsparseir.v0.8.4.aarch64-apple-darwin.tar.gz"
+    sha256 = "b062bfd42b1dbb2857442bb15ff7a8219ff494862f8c228b648ff37e2ae3e1e5"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.10.0+0/libsparseir.v0.10.0.aarch64-apple-darwin.tar.gz"
 [[libsparseir]]
 arch = "aarch64"
-git-tree-sha1 = "becc902d148a1457e87c3da5830d8527a01b1776"
+git-tree-sha1 = "550c5a588e59219986ddf6023d429c6bec5e4814"
 libc = "glibc"
 os = "linux"
 
     [[libsparseir.download]]
-    sha256 = "ad80b789c77df315ae305e64af6bcfce5b40a3bf5df3aa363bb6c63da9449bc7"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.4+1/libsparseir.v0.8.4.aarch64-linux-gnu.tar.gz"
+    sha256 = "03b7dba8120bf35af887c6dfacd5b6de513fd5a3df728df0d7b4f748665195bc"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.10.0+0/libsparseir.v0.10.0.aarch64-linux-gnu.tar.gz"
 [[libsparseir]]
 arch = "powerpc64le"
-git-tree-sha1 = "ee91d9024f1518e46e1545320cd70449c88af871"
+git-tree-sha1 = "e02a769dab0824a0a0a0f9e1cdd7db79a685da65"
 libc = "glibc"
 os = "linux"
 
     [[libsparseir.download]]
-    sha256 = "b4895ce7f30b019348065bbc66fe69e23fefaf989e69ee88646f55b4c4c7259f"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.4+1/libsparseir.v0.8.4.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "b41fb13866af0bb353fb625ae60fe78f834d6c273ffab87c214aed3680c23118"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.10.0+0/libsparseir.v0.10.0.powerpc64le-linux-gnu.tar.gz"
 [[libsparseir]]
 arch = "x86_64"
-git-tree-sha1 = "f07e576e0fa39f843d0d2473c25c97e19677fe66"
+git-tree-sha1 = "e21a513cc1abcbc1efe752d4aa141823657f9cef"
 os = "macos"
 
     [[libsparseir.download]]
-    sha256 = "c303e190152f6f062a898ae602b62c6986b267f3765614d1c9134dd39be8f8b0"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.4+1/libsparseir.v0.8.4.x86_64-apple-darwin.tar.gz"
+    sha256 = "322d6bdde0c07f01750d52ead149dddafaaf05eb9f51313b2646f4baeb4ed0a0"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.10.0+0/libsparseir.v0.10.0.x86_64-apple-darwin.tar.gz"
 [[libsparseir]]
 arch = "x86_64"
-git-tree-sha1 = "c06d798b05f4ff33682cc66b6b5b213a9d129787"
+git-tree-sha1 = "d93aab7f6ba6f2d2723b834a78286cbe409d449b"
 libc = "glibc"
 os = "linux"
 
     [[libsparseir.download]]
-    sha256 = "e677249cc5ee42ea15be70b3888512cfc1d8ac2c2dbbd2c6f738b4a483b70a52"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.4+1/libsparseir.v0.8.4.x86_64-linux-gnu.tar.gz"
+    sha256 = "45ee6776b0a10a0896596bc1d729fa156fcd280c3d3d014ec1053b12570b4d43"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.10.0+0/libsparseir.v0.10.0.x86_64-linux-gnu.tar.gz"
 [[libsparseir]]
 arch = "x86_64"
-git-tree-sha1 = "aa94f93387531e349cc0893b1c2f677703c24d2a"
+git-tree-sha1 = "887dc8afa4cb3e45e1e50d1f53017feabdcce7ba"
 os = "freebsd"
 
     [[libsparseir.download]]
-    sha256 = "b05da9b63c35646dee9b9a4b0438dc1bbed5ad5c77144f5f90f4199396c078ad"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.4+1/libsparseir.v0.8.4.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "7d30d0113a7867b39c0b77ee81002874ed5ba6545c3fecf3db91a6f29052bb38"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.10.0+0/libsparseir.v0.10.0.x86_64-unknown-freebsd.tar.gz"
 [[libsparseir]]
 arch = "x86_64"
-git-tree-sha1 = "6199ac59ea5b04015332688f944f3bf91b017c73"
+git-tree-sha1 = "f6203cf3e97211c2e3dd8af3da3866706dcc4fb2"
 os = "windows"
 
     [[libsparseir.download]]
-    sha256 = "b46f826363e8a07141f1af9d1984118113e99a18e27cea428db1321531d108fe"
-    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.8.4+1/libsparseir.v0.8.4.x86_64-w64-mingw32.tar.gz"
+    sha256 = "99531d0384aa3ff3daf9bfbc3832bfd06276c8883472286a0b38fa78dcecb363"
+    url = "https://github.com/JuliaBinaryWrappers/libsparseir_jll.jl/releases/download/libsparseir-v0.10.0+0/libsparseir.v0.10.0.x86_64-w64-mingw32.tar.gz"
